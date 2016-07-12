@@ -1,0 +1,9 @@
+{
+    "require": {
+        "intervention/image" : "*"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "^2.5"
+    },
+    "autoload" : {"psr-0": {"": "src"}}
+}
